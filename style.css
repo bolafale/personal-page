@@ -41,5 +41,11 @@ img {
 }
 hr {
     border-style: solid;
-    color: rgba(0, 0, 0, 0.1);
+    color: rgba(0, 0, 0, 0.07);
+}
+.peppa {
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 4px;
+    border-color: black;
 }
